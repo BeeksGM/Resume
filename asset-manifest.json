@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/resume-site/static/css/main.c12686b2.css",
-    "main.js": "/resume-site/static/js/main.489f440e.js",
-    "static/js/787.bdde258d.chunk.js": "/resume-site/static/js/787.bdde258d.chunk.js",
-    "static/media/logo.png": "/resume-site/static/media/logo.c4c30fe1bc1601870f4a.png",
-    "static/media/mwhbooks.PNG": "/resume-site/static/media/mwhbooks.5936c495681410aee9e2.PNG",
-    "static/media/thissite.PNG": "/resume-site/static/media/thissite.b1ae28304ebc517b877d.PNG",
-    "static/media/rocklegal.PNG": "/resume-site/static/media/rocklegal.f236215bec7fcfb70467.PNG",
-    "static/media/Website Cloud.xd": "/resume-site/static/media/Website Cloud.b13aa0befb14bf40e9e2.xd",
-    "static/media/wixsite.PNG": "/resume-site/static/media/wixsite.19f4ceffe3ef4bcb146d.PNG",
-    "static/media/PIX11Logo.png": "/resume-site/static/media/PIX11Logo.6a97d20c1202b07a9db2.png",
-    "static/media/typescripts.png": "/resume-site/static/media/typescripts.4d3b0b0e0e67803523fc.png",
-    "static/media/Resume.pdf": "/resume-site/static/media/Resume.4ce0c562b39e0489b36a.pdf",
-    "static/media/image1.png": "/resume-site/static/media/image1.708b49d96cd6fadfadfd.png",
-    "static/media/dblogo.png": "/resume-site/static/media/dblogo.ce940ad2c7ae81b6b08e.png",
-    "static/media/TekLogo.png": "/resume-site/static/media/TekLogo.d085688eaae794a45732.png",
-    "index.html": "/resume-site/index.html",
-    "main.c12686b2.css.map": "/resume-site/static/css/main.c12686b2.css.map",
-    "main.489f440e.js.map": "/resume-site/static/js/main.489f440e.js.map",
-    "787.bdde258d.chunk.js.map": "/resume-site/static/js/787.bdde258d.chunk.js.map"
+    "main.css": "/Resume/static/css/main.2a367f87.css",
+    "main.js": "/Resume/static/js/main.dd9ccbe4.js",
+    "static/js/787.bdde258d.chunk.js": "/Resume/static/js/787.bdde258d.chunk.js",
+    "static/media/logo.png": "/Resume/static/media/logo.c4c30fe1bc1601870f4a.png",
+    "static/media/mwhbooks.PNG": "/Resume/static/media/mwhbooks.5936c495681410aee9e2.PNG",
+    "static/media/thissite.PNG": "/Resume/static/media/thissite.b1ae28304ebc517b877d.PNG",
+    "static/media/rocklegal.PNG": "/Resume/static/media/rocklegal.f236215bec7fcfb70467.PNG",
+    "static/media/Website Cloud.xd": "/Resume/static/media/Website Cloud.b13aa0befb14bf40e9e2.xd",
+    "static/media/wixsite.PNG": "/Resume/static/media/wixsite.19f4ceffe3ef4bcb146d.PNG",
+    "static/media/PIX11Logo.png": "/Resume/static/media/PIX11Logo.6a97d20c1202b07a9db2.png",
+    "static/media/typescripts.png": "/Resume/static/media/typescripts.4d3b0b0e0e67803523fc.png",
+    "static/media/Resume.pdf": "/Resume/static/media/Resume.4ce0c562b39e0489b36a.pdf",
+    "static/media/image1.png": "/Resume/static/media/image1.708b49d96cd6fadfadfd.png",
+    "static/media/dblogo.png": "/Resume/static/media/dblogo.ce940ad2c7ae81b6b08e.png",
+    "static/media/TekLogo.png": "/Resume/static/media/TekLogo.d085688eaae794a45732.png",
+    "index.html": "/Resume/index.html",
+    "main.2a367f87.css.map": "/Resume/static/css/main.2a367f87.css.map",
+    "main.dd9ccbe4.js.map": "/Resume/static/js/main.dd9ccbe4.js.map",
+    "787.bdde258d.chunk.js.map": "/Resume/static/js/787.bdde258d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c12686b2.css",
-    "static/js/main.489f440e.js"
+    "static/css/main.2a367f87.css",
+    "static/js/main.dd9ccbe4.js"
   ]
 }
