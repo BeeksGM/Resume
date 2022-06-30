@@ -3,7 +3,6 @@ import image1 from "./Images/image1.png";
 import image2 from "./Images/typescripts.png";
 import image3 from "./Images/mwhbooks.PNG";
 import image4 from "./Images/rocklegal.PNG";
-import image5 from "./Images/wixsite.PNG";
 import image6 from "./Images/thissite.PNG"
 import downloads from "./Images/Website Cloud.xd"
 
@@ -122,31 +121,7 @@ const Section4 = (primaryColor, secondaryColor) => {
             </div>
           </div>
         </div>
-        <div className="col-lg-4 col-md-6 col-sm-12 mt-2">
-          <div className="card -rem">
-            <img src={image5} className="card-img-top" alt="..." />
-            <div className="card-body">
-              <h5 className="card-title">
-                <u>Upcoming Projects</u>
-              </h5>
-              <p className="card-text">
-                I am currently working on several projects with my own company
-                Apex Digital Media. (site not officially published yet)
-              </p>
-              <p>
-                These projects include Digital Marketing/Web Developement and
-                even Web3 work on a new BlockChain. Due to disclosure warning I
-                cannot post until the projects are complete.
-              </p>
-              <a
-                href="https://gabrielmonroig.wixsite.com/website-2"
-                className="btn btn-primary m-2"
-              >
-                Wix Mockup of Website
-              </a>
-            </div>
-          </div>
-        </div>
+  
         <div className="col-lg-4 col-md-6 col-sm-12 mt-2">
           <div className="card -rem">
             <img src={image6} className="card-img-top" alt="..." />
@@ -160,8 +135,8 @@ const Section4 = (primaryColor, secondaryColor) => {
               </p>
               <p>All Graphics we created by me using Adobe Creative Suite.</p>
               <a
-                href="https://gabrielmonroig.wixsite.com/website-2"
-                className="btn btn-disabled m-2"
+                href="https://github.com/BeeksGM/Resume"
+                className="btn btn-primary m-2"
               >
                 Github Source Code
               </a>

@@ -11,10 +11,7 @@ let style = {
   primaryColor: "#FFFFFF",
   secondaryColor: "#515151",
 };
-let styleAlt = {
-  primaryColor: "#515151",
-  secondaryColor: "#FFFFFF",
-};
+
 
 function App() {
   return (

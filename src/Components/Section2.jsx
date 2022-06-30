@@ -5,20 +5,22 @@ import teklogo from "./Images/TekLogo.png";
 import dblogo from "./Images/dblogo.png";
 
 const Section2 = ({ primaryColor, secondaryColor }) => {
-  const selfDesc = [];
+ 
   const pixDesc = [
-    "Designed and implemented web based DAM using open source PHP & Symphony",
-    "Create scripts to automate excel functions and daily tasks using Typescript & C#/Asp.net",
-    "Managed digital & physical content archive to facilitate licensing & monetization of content on digital platforms",
-    "Automated licensing & digital content workflows with C# Asp.net applications and Typescript",
-    "Designed and implemented web apps with JavaScript/Html/CSS/Bootstrap",
-    "Analyzed information from Google and social analytics to improve news content and licensing revenue",
-  ];
+    "Designed React Application that utilized APIs to handle time and attendance",
+    "Automated Excel functions with Typescript",
+    "Designed Media Management Tools using WPF & .NET utilizing APIs and Google Firebase & AWS Platforms",
+    "Automated licensing & digital content workflows with Selenium inside of .NET applications",
+    "Designed and Created Internal Web Applications using React & Bootstrap for internal analytics",
+    "Leveraged Google Analytics & Social Media analytics to enhance web traffic & open new revenue opportunities",
+    "Implemented Responsive design patterns to increase mobile web traffic of external websites",
+    
+  ]; 
   const tekDesc = [
     "Project manager for all user system implementations",
     "Designed application in C# with ASP.net & SQL for AECOM students pick up & drop off on campus",
     "Created custom Powershell & C# scripts to facilitate easier PC deployment and maintenance",
-    "Provided level 3 desktop support for advanced application/desk issues",
+    "Provided level 3 desktop support for advanced application/desk issues",    
   ];
   const dbDesc = [
     "Troubleshoot and support ATMs Software & Hardware",

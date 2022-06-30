@@ -13,22 +13,14 @@ const Section1 = ({ primaryColor, secondaryColor }) => {
                 Web Developer &amp; Digital Media Strategist
               </h1>
               <p className="lead">
-                Having been always interested in Game Design and Web
-                Development, C# allowed me to pursue both my loves at once. C#
-                is used in Unity3d for Game Development and .NET for Web &amp;
-                App Development and while I still have much to learn. I am
-                pursuing my passion in both Web and Game Development using my
-                new favorite language C#.
+                Digital Media Expert with a background in Web Development. Deep
+                knowledge of popular frameworks such as: React.js, Angular,
+                .NET. Understanding of User Interface &amp; Experience design and
+                common core Web practices. Experience in Software development
+                cycles &amp; Agile work enviroments.
               </p>
-              
-              <p className="lead">
-                I am an experienced Digital Media Manager and Systems Admin with
-                a background in Web Development with frameworks like .Net,
-                React.js, and more! Additional skills in Digital Marketing, SEO,
-                Web Design, UI/UX Design and Popular Web Analytic Softwares and
-                still growing!
-              </p>
-              <hr/>
+
+              <hr />
               <div className="row">
                 <div className="col col-lg-6 col-sm-12">
                   <p className="lead">
